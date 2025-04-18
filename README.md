@@ -48,3 +48,6 @@ The chatbot identifies the "thanks" intent and responds, "You're welcome! Let me
 User Input: The user says, "Bye."
 The chatbot recognizes the "farewell" intent and replies, "Goodbye! Have a great day!"
 Error Handling: Make the chatbot robust by providing responses for unrecognized inputs, such as "I'm sorry, I didn't understand that. Can you rephrase?"
+# output:
+![Image](https://github.com/user-attachments/assets/cde290c5-d9cb-4017-9384-d7ab4d222dd4)
+
