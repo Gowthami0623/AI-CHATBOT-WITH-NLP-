@@ -1,11 +1,11 @@
 # AI-CHATBOT-WITH-NLP
- ## COMPANY NAME : CODTECH IT SOLUTION
- ## NAME : GOWTHAMI D 
- ## INTERN ID : CT04WN140  
- ## DOMAIN NAME : PYTHON PROGRAMMING 
- ## DURATION: 4 WEEKS
- ## MENTOR : VAISHALI
- ## AI CHATBOT WITH NLP
+#### COMPANY NAME : CODTECH IT SOLUTION
+#### NAME : GOWTHAMI D 
+### INTERN ID : CT04WN140  
+#### DOMAIN NAME : PYTHON PROGRAMMING 
+#### DURATION: 4 WEEKS
+#### MENTOR : VAISHALI
+#### AI CHATBOT WITH NLP
  
 ### Objective of my Project
 The aim is to create a chatbot capable of engaging in conversations and answering user queries effectively using Natural Language Processing techniques. The chatbot uses libraries such as NLTK (Natural Language Toolkit) or SpaCy to process and understand human language.
